@@ -96,7 +96,7 @@
     font-family: "jet";
     src: url("JetBrainsMono-Regular.ttf");
 }
-#disc {
+#disc-image {
     width: 180px;
     height: 180px;
     border-radius: 100%;
