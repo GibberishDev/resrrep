@@ -1,5 +1,5 @@
 ### How to setup:
-* Download html file and put it in any folder you want. Then open html file in browser and copy link into obs browser source (DO NOT use local file as it doesnt allow settings aplied).
+* Download (./combo.html)[html file] and put it in any folder you want. Then open html file in browser and copy link into obs browser source (DO NOT use local file as it doesnt allow settings aplied).
 * To change channel or other settings append `?` at the end of the link and then follow by the `[setting]=[value]` and separate settings by `&` symbol
 <br>Example: `file:///C:/Users/... .../combo.html?channel=gibbdev&number-regular=4`
 
