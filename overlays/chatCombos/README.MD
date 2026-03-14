@@ -3,7 +3,7 @@
 * To change channel or other settings append `?` at the end of the link and then follow by the `[setting]=[value]` and separate settings by `&` symbol
 <br>Example: `file:///C:/Users/... .../combo.html?channel=gibbdev&number-regular=4`
 
-Avaliable settings:
+### Avaliable settings:
 | setting | value type | default | description |
 | --- | --- | --- | --- |
 | channel | `string` | "gibbdev" | channel id from which chat tracking will occur
@@ -15,3 +15,8 @@ Avaliable settings:
 | timeout-super | `integer` | 20000 | number in milliseconds before regular combo expires
 | show-timer | `boolean` | "true" | decides whether to show timer (circle)
 | position | `string` | "bottom-left" |  decides anchor of the whole widget in the window.  <details><summary>avaliable values</summary><br>top-left<br>top-center<br>top-right<br>left<br>center<br>right<br>bottom-left<br>bottom-center<br>bottom-right</details>
+
+
+### Attributions:
+* Minified version of TMI.JS - https://tmijs.com/
+* Translation of chatbuzz emote fetch methods from <a href="https://github.com/mattyHerzig/ChatBuzz/blob/main/src/emotes.ts">ChatBuzz</a> by <a href="https://github.com/mattyHerzig">mattyHerzig</a>
